@@ -1,7 +1,33 @@
-<div class="page-header">
-    <h1>Congratulations!</h1>
-</div>
+<article>
+    Full stack web developer
+</article>
 
-<p>You're now flying with Phalcon. Great things are about to happen!</p>
+<article class="socials">
+    <a href="https://www.linkedin.com/in/rusenko-i/" target="_blank">
+    <i class="icon-linkedin"></i>
+    </a>
+    <a href="https://github.com/iRim" target="_blank">
+    <i class="icon-github"></i>
+    </a>
+    <a href="https://fb.me/rusenko.i" target="_blank">
+    <i class="icon-facebook"></i>
+    </a>
+    <a href="https://www.instagram.com/rusenko.ihor/" target="_blank">
+    <i class="icon-instagram"></i>
+    </a>
+</article>
 
-<p>This page is located at <code>views/index/index.volt</code></p>
+<article>
+    <a
+    href="https://en.freelancehunt.com/freelancer/rusenko_i.html"
+    target="_blank"
+    ><i class="icon-share"></i> freelancehunt</a
+    >
+    <a href="/cv.pdf" target="_blank">
+    <i class="icon-file-pdf"></i> CV
+    </a>
+    <span>
+    <i class="icon-mail"></i>
+    <s>Mail me</s>
+    </span>
+</article>

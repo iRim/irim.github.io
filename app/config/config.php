@@ -12,9 +12,10 @@ return new \Phalcon\Config([
         'adapter'     => 'Mysql',
         'host'        => 'localhost',
         'username'    => 'root',
-        'password'    => '',
-        'dbname'      => 'test',
+        'password'    => 'root',
+        'dbname'      => 'rim_lv',
         'charset'     => 'utf8',
+        'port'        => '3306',
     ],
     'application' => [
         'appDir'         => APP_PATH . '/',
@@ -26,5 +27,5 @@ return new \Phalcon\Config([
         'libraryDir'     => APP_PATH . '/library/',
         'cacheDir'       => BASE_PATH . '/cache/',
         'baseUri'        => '/',
-    ]
+    ],
 ]);
