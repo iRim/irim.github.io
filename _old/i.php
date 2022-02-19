@@ -8,9 +8,9 @@ function createHash($lenght = 5){
 	$sum = array_sum(str_split($hash));
 	for ($i=45; $i <= 127; $i++) { 
 		$chr = chr($i);
-		// if(preg_match('/^\w$/ui',$chr)){
+		if(preg_match('/^\w$/ui',$chr)){
 			$symbols[] = $chr;
-		// }
+		}
 	}
 	$count = count($symbols);
 	if($sum > $count){

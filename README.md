@@ -1,2 +1,0 @@
-# rim.lv
-my site
