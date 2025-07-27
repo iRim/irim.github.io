@@ -5,8 +5,8 @@
 		"fonts.scss"
 	],
 	"sourcesContent": [
-		"@font-face {\r\n  font-family: \"social\";\r\n  src: url(\"../fonts/social.eot?56872475\");\r\n  src: url(\"../fonts/social.eot?56872475#iefix\") format(\"embedded-opentype\"),\r\n    url(\"../fonts/social.woff2?56872475\") format(\"woff2\"),\r\n    url(\"../fonts/social.woff?56872475\") format(\"woff\"),\r\n    url(\"../fonts/social.ttf?56872475\") format(\"truetype\"),\r\n    url(\"../fonts/social.svg?56872475#social\") format(\"svg\");\r\n  font-weight: normal;\r\n  font-style: normal;\r\n  font-display: swap;\r\n}\r\n"
+		"@import url(\"https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap\");\r\n\r\n@font-face {\r\n  font-family: \"social\";\r\n  src: url(\"../fonts/social.eot?56872475\");\r\n  src: url(\"../fonts/social.eot?56872475#iefix\") format(\"embedded-opentype\"),\r\n    url(\"../fonts/social.woff2?56872475\") format(\"woff2\"),\r\n    url(\"../fonts/social.woff?56872475\") format(\"woff\"),\r\n    url(\"../fonts/social.ttf?56872475\") format(\"truetype\"),\r\n    url(\"../fonts/social.svg?56872475#social\") format(\"svg\");\r\n  font-weight: normal;\r\n  font-style: normal;\r\n  font-display: swap;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": "AAAA,UAAU,CACR,WAAW,CAAE,QAAQ,CACrB,GAAG,CAAE,mCAAmC,CACxC,GAAG,CAAE,yCAAyC,CAAC,2BAA2B,CACxE,qCAAqC,CAAC,eAAe,CACrD,oCAAoC,CAAC,cAAc,CACnD,mCAAmC,CAAC,kBAAkB,CACtD,0CAA0C,CAAC,aAAa,CAC1D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM,CAClB,YAAY,CAAE,IAAI"
+	"mappings": "AAAA,OAAO,CAAC,4EAAI,CAEZ,UAAU,CACR,WAAW,CAAE,QAAQ,CACrB,GAAG,CAAE,mCAAmC,CACxC,GAAG,CAAE,yCAAyC,CAAC,2BAA2B,CACxE,qCAAqC,CAAC,eAAe,CACrD,oCAAoC,CAAC,cAAc,CACnD,mCAAmC,CAAC,kBAAkB,CACtD,0CAA0C,CAAC,aAAa,CAC1D,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM,CAClB,YAAY,CAAE,IAAI"
 }
