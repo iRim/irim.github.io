@@ -1,0 +1,11 @@
+{% if site.social.og %}
+<meta property="og:title" content="{{ site.author }} - {{ site.job }}" />
+<meta
+  property="og:description"
+  content="{{ site.author }} - {{ site.roles }}"
+/>
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:image" content="{{ site.url }}/og-image.png" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+{% endif %}
