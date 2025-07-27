@@ -1,0 +1,10 @@
+{% if site.social.twitter and site.social.twitter != "" %}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="{{ site.social.twitter }}" />
+<meta name="twitter:title" content="{{ site.author }} - {{ site.job }}" />
+<meta
+  name="twitter:description"
+  content="{{ site.author }} - {{ site.roles }}"
+/>
+<meta name="twitter:image" content="{{ site.url }}/twitter-image.png" />
+{% endif %}

@@ -1,0 +1,37 @@
+author: "Ihor Rusenko"
+job: "Full stack Web developer"
+roles: "PHP/Laravel, Phalcon, Yii; JS/Vue.js, React; MySQL, PostgreSQL, MongoDB, NoSQL; Docker, WebSocket"
+url: "https://rim.lv"
+themeColor: #ff851b
+mail: i@rim.lv
+
+sass:
+  style: compressed
+
+social:
+  og: true
+  twitter: "@rusenko_i"
+
+icon:
+  - icon: "linkedin"
+    title: "LinkedIn"
+    url: "https://www.linkedin.com/in/rusenko-i/"
+  - icon: "github"
+    title: "GitHub"
+    url: "https://github.com/iRim"
+  - icon: "facebook"
+    title: "FaceBook"
+    url: "https://fb.me/rusenko.i"
+  - icon: "instagram"
+    title: "Instagram"
+    url: "https://www.instagram.com/rusenko.ihor/"
+
+freelancehunt:
+  url: "https://en.freelancehunt.com/freelancer/rusenko_i.html"
+  title: "FreelanceHunt"
+  icon: "share"
+
+resume:
+  url: Ihor_Rusenko_resume.pdf
+  title: "Resume"
+  icon: "file-pdf"
